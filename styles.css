@@ -1,5 +1,9 @@
+ 
 body{
     margin: 0;
     background: pink;
-    text-align: center;   
+    text-align: center; 
+    font-style: italic; 
+    font-weight: 400; 
 }
+
